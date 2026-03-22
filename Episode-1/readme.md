@@ -78,6 +78,6 @@ Customer Support
 
 👉 In Waterfall Model:
 
-Each phase is completed 100% before moving ahead
+Note: Each phase is completed 100% before moving ahead
 No backtracking easily
 Heavy documentation at every stage
