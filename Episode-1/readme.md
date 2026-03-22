@@ -26,9 +26,9 @@ Solution Architects
 UX/UI Designers
 System Designers
 Technical Leads
+
+
 🧠 3. Development Phase
-
-
 👉 Work:
 Coding based on design
 Build features and integrate modules
