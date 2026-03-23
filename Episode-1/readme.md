@@ -213,3 +213,4 @@ Microservices: Database per service
 Conclusion : 
 
 Choosing between Monolith and Microservices depends on project size, team structure, and specific requirements. Monolith architecture is simpler for smaller projects, while Microservices offer greater flexibility and scalability for larger, complex projects.
+
